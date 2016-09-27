@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo01_Operators", "Firebrand.Demos.Demo01_Operators\Firebrand.Demos.Demo01_Operators.csproj", "{7A742E2D-B615-4F93-9AA1-1ECB0082988C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo02_Arrays", "Firebrand.Demos.Demo02_Arrays\Firebrand.Demos.Demo02_Arrays.csproj", "{BDD6E391-691F-4BE6-8710-3911ED0A86AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo03_ClassLibrary", "Firebrand.Demos.Demo03_ClassLibrary\Firebrand.Demos.Demo03_ClassLibrary.csproj", "{ECD82A39-F7B7-40AC-BD32-FA0E1752F3FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo04_Inheritance", "Firebrand.Demos.Demo04_Inheritance\Firebrand.Demos.Demo04_Inheritance.csproj", "{7A3F0188-3161-4528-9809-82692A7B5BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo05_Objects", "Firebrand.Demos.Demo05_Objects\Firebrand.Demos.Demo05_Objects.csproj", "{C13D2C4C-C022-4426-816F-9A6BB69B09A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo06_Diagnostics", "Firebrand.Demos.Demo06_Diagnostics\Firebrand.Demos.Demo06_Diagnostics.csproj", "{B3386D2B-CF04-468D-97D5-F24C3A092A16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo07_EventLog", "Firebrand.Demos.Demo07_EventLog\Firebrand.Demos.Demo07_EventLog.csproj", "{1C08A704-81B0-4F7A-AC3F-B7E4ADBEAFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo08_Tracing", "Firebrand.Demos.Demo08_Tracing\Firebrand.Demos.Demo08_Tracing.csproj", "{17B5367F-907A-49DB-89A0-565118C7FE28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrands.Demos.Demo09_Struct", "Firebrands.Demos.Demo09_Struct\Firebrands.Demos.Demo09_Struct.csproj", "{ECAFEDA5-C539-4200-9A3C-843E90ACD20E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo10_Events", "Firebrand.Demos.Demo10_Events\Firebrand.Demos.Demo10_Events.csproj", "{0270E681-38FA-4BC8-9B10-4084921B5B93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A742E2D-B615-4F93-9AA1-1ECB0082988C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A742E2D-B615-4F93-9AA1-1ECB0082988C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A742E2D-B615-4F93-9AA1-1ECB0082988C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A742E2D-B615-4F93-9AA1-1ECB0082988C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDD6E391-691F-4BE6-8710-3911ED0A86AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD6E391-691F-4BE6-8710-3911ED0A86AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD6E391-691F-4BE6-8710-3911ED0A86AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD6E391-691F-4BE6-8710-3911ED0A86AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD82A39-F7B7-40AC-BD32-FA0E1752F3FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD82A39-F7B7-40AC-BD32-FA0E1752F3FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD82A39-F7B7-40AC-BD32-FA0E1752F3FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD82A39-F7B7-40AC-BD32-FA0E1752F3FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3F0188-3161-4528-9809-82692A7B5BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3F0188-3161-4528-9809-82692A7B5BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3F0188-3161-4528-9809-82692A7B5BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3F0188-3161-4528-9809-82692A7B5BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13D2C4C-C022-4426-816F-9A6BB69B09A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13D2C4C-C022-4426-816F-9A6BB69B09A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13D2C4C-C022-4426-816F-9A6BB69B09A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13D2C4C-C022-4426-816F-9A6BB69B09A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3386D2B-CF04-468D-97D5-F24C3A092A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3386D2B-CF04-468D-97D5-F24C3A092A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3386D2B-CF04-468D-97D5-F24C3A092A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3386D2B-CF04-468D-97D5-F24C3A092A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C08A704-81B0-4F7A-AC3F-B7E4ADBEAFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C08A704-81B0-4F7A-AC3F-B7E4ADBEAFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C08A704-81B0-4F7A-AC3F-B7E4ADBEAFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C08A704-81B0-4F7A-AC3F-B7E4ADBEAFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B5367F-907A-49DB-89A0-565118C7FE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B5367F-907A-49DB-89A0-565118C7FE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B5367F-907A-49DB-89A0-565118C7FE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B5367F-907A-49DB-89A0-565118C7FE28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECAFEDA5-C539-4200-9A3C-843E90ACD20E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFEDA5-C539-4200-9A3C-843E90ACD20E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFEDA5-C539-4200-9A3C-843E90ACD20E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFEDA5-C539-4200-9A3C-843E90ACD20E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
