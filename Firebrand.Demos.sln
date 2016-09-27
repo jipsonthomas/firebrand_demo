@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrands.Demos.Demo09_Str
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo10_Events", "Firebrand.Demos.Demo10_Events\Firebrand.Demos.Demo10_Events.csproj", "{0270E681-38FA-4BC8-9B10-4084921B5B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo11_UnitTest", "Firebrand.Demos.Demo11_UnitTest\Firebrand.Demos.Demo11_UnitTest.csproj", "{F513225F-7ED3-41A5-8530-84D98B817E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo12_OOP", "Firebrand.Demos.Demo12_OOP\Firebrand.Demos.Demo12_OOP.csproj", "{9088F600-013B-492F-A57D-177FB672122B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +71,14 @@ Global
 		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0270E681-38FA-4BC8-9B10-4084921B5B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F513225F-7ED3-41A5-8530-84D98B817E55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F513225F-7ED3-41A5-8530-84D98B817E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F513225F-7ED3-41A5-8530-84D98B817E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F513225F-7ED3-41A5-8530-84D98B817E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9088F600-013B-492F-A57D-177FB672122B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9088F600-013B-492F-A57D-177FB672122B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9088F600-013B-492F-A57D-177FB672122B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9088F600-013B-492F-A57D-177FB672122B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
