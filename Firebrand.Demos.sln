@@ -41,6 +41,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo19_WebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo20_CallingRestServices", "Firebrand.Demos.Demo20_CallingRestServices\Firebrand.Demos.Demo20_CallingRestServices.csproj", "{E266A0AE-671B-4EA0-BDA2-106FE0DF3F4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo21_Delegates", "Firebrand.Demos.Demo21_Delegates\Firebrand.Demos.Demo21_Delegates.csproj", "{EDDCA531-0F51-4030-B624-9F5CA702A07F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo22_ParallelTasks", "Firebrand.Demos.Demo22_ParallelTasks\Firebrand.Demos.Demo22_ParallelTasks.csproj", "{6E01F2AF-AF90-4A54-B159-4E31860BD8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo23_TaskFactory", "Firebrand.Demos.Demo23_TaskFactory\Firebrand.Demos.Demo23_TaskFactory.csproj", "{EF81173F-83C2-4CBB-9D7E-7FEDA713DB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo24_AsyncAwait", "Firebrand.Demos.Demo24_AsyncAwait\Firebrand.Demos.Demo24_AsyncAwait.csproj", "{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +135,22 @@ Global
 		{E266A0AE-671B-4EA0-BDA2-106FE0DF3F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E266A0AE-671B-4EA0-BDA2-106FE0DF3F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E266A0AE-671B-4EA0-BDA2-106FE0DF3F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDCA531-0F51-4030-B624-9F5CA702A07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDCA531-0F51-4030-B624-9F5CA702A07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDCA531-0F51-4030-B624-9F5CA702A07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDCA531-0F51-4030-B624-9F5CA702A07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E01F2AF-AF90-4A54-B159-4E31860BD8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01F2AF-AF90-4A54-B159-4E31860BD8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01F2AF-AF90-4A54-B159-4E31860BD8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01F2AF-AF90-4A54-B159-4E31860BD8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF81173F-83C2-4CBB-9D7E-7FEDA713DB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF81173F-83C2-4CBB-9D7E-7FEDA713DB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF81173F-83C2-4CBB-9D7E-7FEDA713DB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF81173F-83C2-4CBB-9D7E-7FEDA713DB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
