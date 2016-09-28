@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo23_Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo24_AsyncAwait", "Firebrand.Demos.Demo24_AsyncAwait\Firebrand.Demos.Demo24_AsyncAwait.csproj", "{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo25_Dynamic", "Firebrand.Demos.Demo25_Dynamic\Firebrand.Demos.Demo25_Dynamic.csproj", "{15B5876B-91D8-4BAE-8446-3B42DBE76BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebrand.Demos.Demo26_IDisposable", "Firebrand.Demos.Demo26_IDisposable\Firebrand.Demos.Demo26_IDisposable.csproj", "{739B6B87-392F-46E4-ABB1-109AE79A0F9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +155,14 @@ Global
 		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CF6395-D97B-48AA-9852-ED8B6D39FCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B5876B-91D8-4BAE-8446-3B42DBE76BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B5876B-91D8-4BAE-8446-3B42DBE76BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B5876B-91D8-4BAE-8446-3B42DBE76BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B5876B-91D8-4BAE-8446-3B42DBE76BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739B6B87-392F-46E4-ABB1-109AE79A0F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739B6B87-392F-46E4-ABB1-109AE79A0F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739B6B87-392F-46E4-ABB1-109AE79A0F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739B6B87-392F-46E4-ABB1-109AE79A0F9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
